@@ -862,6 +862,15 @@ footer p {
         font-size: 2rem;
     }
 
+    .carousel-btn {
+        font-size: 0.8rem;
+        font-family: inherit;
+    }
+
+    .project-stack {
+        flex-wrap: wrap;
+    }
+
     h2 {
         font-size: 1.5rem !important;
     }
@@ -943,10 +952,6 @@ footer p {
         width: 100%;
         max-width: 100%;
         overflow: hidden;
-    }
-
-    .project-details .project-description {
-        display: none;
     }
 
 
