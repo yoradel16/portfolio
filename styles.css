@@ -21,7 +21,9 @@ body {
     overflow-x: hidden;
     max-width: 100vw;
 }
-
+button{
+    font-family: inherit;
+}
 body {
     margin: 0;
     font-family: 'Plus Jakarta Sans', sans-serif;
@@ -210,7 +212,7 @@ a {
 .section {
     display: flex;
     align-items: flex-start;
-    padding: 1rem 8rem 4rem;
+    padding: 4rem 8rem;
     gap: 4rem;
     min-height: 100vh;
     box-sizing: border-box;
